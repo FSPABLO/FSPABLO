@@ -4,7 +4,7 @@ I'm a **Systems Information Engineering** student based in Costa Rica 🇨🇷, 
  
 ---
  
-## 🛠️ Technologies & Tools
+## Technologies & Tools
  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -14,23 +14,23 @@ I'm a **Systems Information Engineering** student based in Costa Rica 🇨🇷, 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
 ---
+
+## What I'm working on
  
-## 🚀 What I'm working on
- 
-- 📚 Deepening my knowledge in **cloud computing and DevOps practices**
-- 🔬 Exploring **quantum computing** fundamentals
-- 🛠️ Building projects that combine software engineering with real-world problem solving
+-  Deepening my knowledge in **cloud computing and DevOps practices**
+-  Exploring **quantum computing** fundamentals
+-  Building projects that combine software engineering with real-world problem solving
 ---
  
-## 📌 Featured Projects
+## Featured Projects
  
 > Check my pinned repositories below ↓
  
 ---
  
-## 📫 Let's connect
+##  Let's connect
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-pablo-fern%C3%A1ndez-sandoval-570473338/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jp.fernandez.sandoval@gmail.com)
  
 ---
