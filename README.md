@@ -1,6 +1,6 @@
 # Hi, I'm JP Fernandez 👋
  
-I'm a **Systems Information Engineering** student based in Costa Rica 🇨🇷, passionate about building software that solves real problems. Currently expanding my skills in cloud technologies and software architecture.
+I'm a **Systems Information Engineering** student based in Costa Rica, passionate about building software that solves real problems. Currently expanding my skills in cloud technologies and software architecture.
  
 ---
  
